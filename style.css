@@ -1,0 +1,42 @@
+@import url(http://fonts.googleapis.com/css?family=Neucha);
+.main {
+  margin: 10%;
+  padding: 5%;
+  background-color: rgba(255, 255, 255, 0.7);
+}
+
+.handwriting {
+  font-family: 'Neucha', cursive;
+}
+
+.wrapper {
+  width: 60%;
+  height: 60%;
+  top: 0;
+  left: 0;
+  text-align: center;
+  margin: 0 auto;
+}
+.block {
+  margin-bottom: 40px;
+}
+.row {
+  margin-bottom: 30px;
+}
+.full {
+  background-color: white;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  min-height: 100%;
+  min-width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+#js_bg_upper {
+  z-index: -1;
+}
+#js_bg_lower {
+  z-index: -2;
+}
