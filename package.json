@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "bootstrap": "^4.0.0-beta",
     "howler": "^2.0.5"
   },
   "devDependencies": {
