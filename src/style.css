@@ -1,0 +1,16 @@
+#js-main {
+   background-color:rgba(255, 255, 255, 0.5);
+}
+
+#js-bg {
+    min-height: 100%;
+    min-width: 100%;
+    background-attachment: fixed;
+    position: fixed;
+    background-repeat: no-repeat;
+    margin: 0 auto;  
+    top: 0;
+    left: 0;
+    z-index: -1;
+    background: white;
+}
